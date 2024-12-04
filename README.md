@@ -10,7 +10,7 @@ Dự án được xây dựng dựa trên mã nguồn và tài liệu từ [Text
 | --------------- | ------------ | ------------------ | ---------------------------------------------- |
 | Trần An Thắng   | 22022525     | QH-2022-I/CQ-A-AI2 | [Trần An Thắng](https://github.com/angWindy)   |
 | Hoàng Việt Tùng | 22022663     | QH-2022-I/CQ-A-AI2 | [Hoàng Việt Tùng](https://github.com/HvTung04) |
-| Phạm Văn Trường | 22022564     | QH-2022-I/CQ-A-AI1 | [Truong](https://github.com/SmrfHdl)           |
+| Phạm Văn Trường | 22022564     | QH-2022-I/CQ-A-AI2 | [Truong](https://github.com/SmrfHdl)           |
 | Vương Ngọc Quân | 22022616     | QH-2022-I/CQ-A-AI2 | [QuanVuong14](https://github.com/QuanVuong14)  |
 
 ## Text Sentiment Analysis In Hadoop & Spark
